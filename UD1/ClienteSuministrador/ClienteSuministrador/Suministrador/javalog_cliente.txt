@@ -1,0 +1,42 @@
+Cliente: ENTRA sección
+Cliente: valor leído 0
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: valor leído 0
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: valor leído 1
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: valor leído 2
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: valor leído 3
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: valor leído 4
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: valor leído 5
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: valor leído 6
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: valor leído 7
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: valor leído 8
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: valor leído 9
+Cliente: SALE sección

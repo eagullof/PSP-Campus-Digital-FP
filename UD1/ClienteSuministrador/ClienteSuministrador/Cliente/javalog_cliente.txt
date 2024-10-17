@@ -1,0 +1,60 @@
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección
+Cliente: ENTRA sección
+Cliente: no puede leer.
+Cliente: SALE sección

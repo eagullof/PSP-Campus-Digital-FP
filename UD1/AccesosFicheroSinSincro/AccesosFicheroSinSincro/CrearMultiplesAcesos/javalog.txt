@@ -1,0 +1,64 @@
+Creado el proceso 0
+Creado el proceso 1
+Creado el proceso 2
+Creado el proceso 3
+Creado el proceso 4
+Creado el proceso 5
+Creado el proceso 6
+Creado el proceso 7
+Creado el proceso 8
+Creado el proceso 9
+Creado el proceso 10
+Creado el proceso 11
+Creado el proceso 12
+Creado el proceso 13
+Creado el proceso 14
+Creado el proceso 15
+Creado el proceso 16
+Creado el proceso 17
+Creado el proceso 18
+Creado el proceso 19
+Proceso0: Creando el fichero.
+Proceso0: Valor leído del fichero: 0
+Proceso0: Valor escrito en el fichero: 1
+Proceso1: Valor leído del fichero: 0
+Proceso1: Valor escrito en el fichero: 1
+Proceso5: Valor leído del fichero: 1
+Proceso5: Valor escrito en el fichero: 2
+Proceso2: Valor leído del fichero: 1
+Proceso4: Valor leído del fichero: 2
+Creado el proceso 20
+Proceso6: Valor leído del fichero: 2
+Proceso10: Valor leído del fichero: 2
+Proceso4: Valor escrito en el fichero: 3
+Proceso7: Valor leído del fichero: 2
+Proceso3: Valor leído del fichero: 2
+Proceso8: Valor leído del fichero: 2
+Proceso6: Valor escrito en el fichero: 3
+Proceso7: Valor escrito en el fichero: 3
+Proceso2: Valor escrito en el fichero: 2
+Proceso10: Valor escrito en el fichero: 3
+Proceso3: Valor escrito en el fichero: 3
+Proceso8: Valor escrito en el fichero: 3
+Proceso12: Valor leído del fichero: 2
+Proceso12: Valor escrito en el fichero: 3
+P14 Error al leer del fichero
+P9 Error al leer del fichero
+Proceso13: Valor leído del fichero: 3
+Proceso13: Valor escrito en el fichero: 4
+Proceso9: Valor escrito en el fichero: 1
+Proceso14: Valor escrito en el fichero: 1
+Proceso11: Valor leído del fichero: 3
+Proceso11: Valor escrito en el fichero: 4
+Proceso17: Valor leído del fichero: 3
+Proceso17: Valor escrito en el fichero: 4
+Proceso15: Valor leído del fichero: 4
+Proceso15: Valor escrito en el fichero: 5
+Proceso16: Valor leído del fichero: 5
+Proceso19: Valor leído del fichero: 5
+Proceso16: Valor escrito en el fichero: 6
+Proceso19: Valor escrito en el fichero: 6
+Proceso18: Valor leído del fichero: 5
+Proceso18: Valor escrito en el fichero: 6
+P20 Error al leer del fichero
+Proceso20: Valor escrito en el fichero: 1
