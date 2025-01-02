@@ -1,10 +1,10 @@
-import java.io.*;    // Importación de clases para manejo de entrada y salida de datos
-import java.net.*;   // Importación de clases para manejo de red, incluyendo Socket y ServerSocket
+import java.io.*;   
+import java.net.*; 
 
 class Servidor {
     static final int Puerto = 2000;  // Definición de un puerto fijo para escuchar conexiones entrantes
 
-    public Servidor() {   // Constructor del servidor
+    public Servidor() { 
         try {
             // Se crea un objeto ServerSocket que escucha en el puerto 2000
             ServerSocket skServidor = new ServerSocket(Puerto);
