@@ -83,6 +83,8 @@ class ServidorHTTP {
       //extrae la subcadena entre 'GET' y 'HTTP/1.1'
       peticion = peticion.substring(3, peticion.lastIndexOf("HTTP"));
 
+      System.out.println("Peticion: " + peticion);
+      
       //si corresponde a la página de inicio
       if (peticion.length() == 0 || peticion.equals("/")) {
         //sirve la página
