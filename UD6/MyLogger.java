@@ -15,7 +15,6 @@ public class MyLogger {
     FileHandler fh;
 
 
-
     try {
 
       // Configuro el logger y establezco el formato
@@ -24,19 +23,21 @@ public class MyLogger {
 
       logger.addHandler(fh);
 
+      logger.setUseParentHandlers(false);
+      
       logger.setLevel(Level.ALL);
 
       SimpleFormatter formatter = new SimpleFormatter();
 
       fh.setFormatter(formatter);
 
-
-
       // Añado un mensaje al log   
 
+      logger.log(Level.FINE,"Mi primer log FINE");
+      logger.log(Level.SEVERE,"Mi primer log SEVERE");
       logger.log(Level.WARNING,"Mi primer log");
-
-
+      logger.log(Level.FINER,"Mi primer log FINER");
+      logger.log(Level.INFO,"Mi primer log INFO");
 
     } catch (SecurityException e) {
 

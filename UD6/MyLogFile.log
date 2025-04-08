@@ -1,2 +1,22 @@
 mar 25, 2025 11:49:08 A. M. MyLogger main
 WARNING: Mi primer log
+mar 27, 2025 7:11:20 P. M. MyLogger main
+FINE: Mi primer log FINE
+mar 27, 2025 7:11:20 P. M. MyLogger main
+SEVERE: Mi primer log SEVERE
+mar 27, 2025 7:11:20 P. M. MyLogger main
+WARNING: Mi primer log
+mar 27, 2025 7:11:20 P. M. MyLogger main
+FINER: Mi primer log FINER
+mar 27, 2025 7:11:20 P. M. MyLogger main
+INFO: Mi primer log INFO
+mar 27, 2025 7:12:28 P. M. MyLogger main
+FINE: Mi primer log FINE
+mar 27, 2025 7:12:28 P. M. MyLogger main
+SEVERE: Mi primer log SEVERE
+mar 27, 2025 7:12:28 P. M. MyLogger main
+WARNING: Mi primer log
+mar 27, 2025 7:12:28 P. M. MyLogger main
+FINER: Mi primer log FINER
+mar 27, 2025 7:12:28 P. M. MyLogger main
+INFO: Mi primer log INFO
